@@ -1,0 +1,18 @@
+[MODEL RESULTS] EFTNeg-overall
+op 	 best var 	 1 sigma 	 2 sigma
+cqq3 	  deltaphijj_mjjmax 	 [-0.051,0.057] 	 [-0.095,0.123]
+cqq31 	  deltaphijj_mjjmax 	 [-0.060,0.073] 	 [-0.111,0.172]
+cHl3 	  deltaetajj_mjjnomax 	 [-0.124,0.121] 	 [-0.247,0.234]
+cHq3 	  ptj2_mjjmax 	 [-0.140,0.138] 	 [-0.276,0.268]
+cqq11 	  ptj1 	 [-0.181,0.314] 	 [-0.286,0.428]
+cqq1 	  ptj1 	 [-0.195,0.320] 	 [-0.304,0.437]
+cW 	  deltaphijj_mjjmax 	 [-0.212,0.187] 	 [-0.380,0.331]
+cll1 	  deltaetajj_mjjnomax 	 [-0.275,0.243] 	 [-0.568,0.446]
+cHl1 	  ptj1_mjjnomax 	 [-0.402,0.427] 	 [-0.762,0.858]
+cHWB 	  deltaetajj_mjjnomax 	 [-0.481,0.432] 	 [-0.979,0.790]
+cHDD 	  ptl2 	 [-0.506,0.687] 	 [-0.684,1.395]
+cHq1 	  mjj 	 [-0.597,0.590] 	 [-1.178,1.151]
+cHW 	  ptj2_mjjnomax 	 [-1.579,1.270] 	 [-2.335,2.005]
+cHbox 	  ptj2_mjjnomax 	 [-2.146,2.014] 	 [-4.204,3.690]
+
+

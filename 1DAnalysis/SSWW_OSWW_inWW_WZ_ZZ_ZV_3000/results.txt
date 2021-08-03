@@ -1,0 +1,14 @@
+[MODEL RESULTS] EFTNeg
+op 	 best var 	 1 sigma 	 2 sigma
+cll1 	  mjj_met_mjj_mjj_deltaetajj_mjjnomax_mjj 	 [-0.007,0.007] 	 [-0.014,0.014]
+cHq3 	  deltaphijj_ptl2_ptl1_mll_etaj2_mjjmax_ptl2 	 [-0.010,0.009] 	 [-0.019,0.018]
+cHl3 	  deltaetajj_met_mjj_mjj_deltaetajj_mjjnomax_mjj 	 [-0.010,0.010] 	 [-0.020,0.019]
+cHWB 	  ptj1_met_deltaetajj_mll_deltaetajj_mjjnomax_mWZ 	 [-0.013,0.013] 	 [-0.026,0.025]
+cW 	  ptll_met_ptl1_mll_ptl2_mWZ 	 [-0.023,0.026] 	 [-0.034,0.038]
+cHl1 	  mll_met_ptemuminus_met_deltaetajj_mjjnomax_mWZ 	 [-0.028,0.028] 	 [-0.055,0.055]
+cHbox 	  mll_met_deltaetajj_mll_ptj2_mjjnomax_mWZ 	 [-0.034,0.034] 	 [-0.065,0.067]
+cHq1 	  ptj1_met_ptj1_mll_ptj2_mjjnomax_ptj1 	 [-0.064,0.033] 	 [-0.087,0.053]
+cHDD 	  mll_met_ptemuplus_deltaetajj_ptl2_deltaetajj 	 [-0.067,0.067] 	 [-0.131,0.132]
+cHW 	  mll_met_m4l_mll_ptj2_mjjnomax_mWZ 	 [-0.186,0.223] 	 [-0.302,0.357]
+
+
